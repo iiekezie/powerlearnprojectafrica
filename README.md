@@ -48,13 +48,13 @@ powerlearnprojectafrica/
 
 1. Navigate into the assignment folder:
 ```bash
-cd assignment-01
+cd python-basic-calculator
 ````
 
 2. Run the Python file:
 
 ```bash
-python3 filename.py
+python3 calculator.py
 ```
 
 ---
