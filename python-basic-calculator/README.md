@@ -53,4 +53,4 @@ Enter operation (+, -, *, /): +
 
 ## ✅ Author
 
-* \[Ifeanyi Ekezie]
+* Ifeanyi Ekezie
