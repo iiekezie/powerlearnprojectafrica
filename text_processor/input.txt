@@ -1,0 +1,5 @@
+Power Learn Project is empowering Africa.
+We are learning Python.
+File handling is fun.
+This is the fourth line.
+And here comes the fifth.
