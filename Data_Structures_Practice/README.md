@@ -52,4 +52,4 @@ python tasks.py
 
 ## ✍️ Author
 
-* \[Ifeanyi Ekezie]
+* Ifeanyi Ekezie
