@@ -21,7 +21,7 @@ This assignment practices Python fundamentals including:
 1. Clone this repository or download the `calculator.py` file.
 2. Run the file using Python 3:
 
-```bash
+
 python calculator.py
 
 
