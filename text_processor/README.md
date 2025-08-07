@@ -47,4 +47,4 @@ When the script runs successfully:
 
 ## Author
 
-**Ifeanyi Ekezie
+* Ifeanyi Ekezie

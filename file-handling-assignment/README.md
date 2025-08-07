@@ -50,4 +50,4 @@ By completing this project, you will:
 
 ## 🚀 Author
 
-**Ifeanyi Ekezie
+* Ifeanyi Ekezie
