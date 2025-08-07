@@ -1,2 +1,0 @@
-# powerlearnprojectafrica
-Software Development
