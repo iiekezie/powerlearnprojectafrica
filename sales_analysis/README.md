@@ -58,8 +58,13 @@ Best-Selling Product: Mouse (15 units sold)
 Highest Sales Day: 2025-03-01
 ```
 
-### Visualization Example
-![Sales Trend Chart](sales_trend.png)
+### 📊 Sample Visualizations
+
+<div align="center">
+  <img src="https://github.com/iiekezie/powerlearnprojectafrica/raw/main/sales_analysis/daily_sales_trend.png" width="45%">
+  <img src="https://github.com/iiekezie/powerlearnprojectafrica/raw/main/sales_analysis/product_sales_distribution.png" width="45%">
+  <p><em>Left: Daily Sales Trend | Right: Product Distribution</em></p>
+</div>
 
 ##   Troubleshooting
 **Issue**: Missing dependencies  
