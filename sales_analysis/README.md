@@ -34,7 +34,7 @@ project/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sales-analysis.git
+   git clone https://github.com/iiekezie/powerlearnprojectafrica/sales-analysis.git
    cd sales-analysis
    ```
 
